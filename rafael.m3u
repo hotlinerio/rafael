@@ -1,0 +1,76 @@
+#EXTM3U
+
+#EXTINF:0,Gloob
+http://paraisotv.ddns.net:80/089/myStream/live.m3u8
+
+#EXTINF:0,Boomerang
+http://paraisotv.ddns.net:80/091/myStream/live.m3u8
+
+#EXTINF:0,Cartoon Network
+http://paraisotv.ddns.net:80/027/myStream/live.m3u8
+
+#EXTINF:0,Disney Channel
+http://paraisotv.ddns.net:80/075/myStream/live.m3u8
+
+#EXTINF:0,Discovery Kids
+http://paraisotv.ddns.net:80/c014/myStream/live.m3u8
+
+#EXTINF:0,Disney JR
+http://paraisotv.ddns.net:80/087/myStream/live.m3u8
+
+#EXTINF:0,Disney XD
+http://paraisotv.ddns.net:80/086/myStream/live.m3u8
+
+#EXTINF:0,Nickelodeon
+http://paraisotv.ddns.net:80/015/myStream/live.m3u8
+
+#EXTINF:0,Nick Jr.
+http://paraisotv.ddns.net:80/052/myStream/live.m3u8
+
+#EXTINF:0,TV Ra-Tim-Bum
+http://paraisotv.ddns.net:80/023/myStream/live.m3u8
+
+#EXTINF:0,Tooncast
+http://paraisotv.ddns.net:80/085/myStream/live.m3u8
+
+#EXTINF:0,SporTV
+http://paraisotv.ddns.net:80/c008/myStream/live.m3u8
+
+#EXTINF:0,SporTV 2
+http://paraisotv.ddns.net:80/c007/myStream/live.m3u8
+
+#EXTINF:0,SporTV 3
+http://paraisotv.ddns.net:80/c016/myStream/live.m3u8
+
+#EXTINF:0,Premiere Clubes
+http://paraisotv.ddns.net:80/097/myStream/live.m3u8
+
+#EXTINF:0,Premiere 2
+http://paraisotv.ddns.net:80/099/myStream/live.m3u8
+
+#EXTINF:0,Premiere 3
+http://paraisotv.ddns.net:80/100/myStream/live.m3u8
+
+#EXTINF:0,Premiere 4
+http://paraisotv.ddns.net:80/110/myStream/live.m3u8
+
+#EXTINF:0,Premiere 5
+http://paraisotv.ddns.net:80/044/myStream/live.m3u8
+
+#EXTINF:0,Premiere 6
+http://paraisotv.ddns.net:80/042/myStream/live.m3u8
+
+#EXTINF:0,Premiere 7
+http://paraisotv.ddns.net:80/043/myStream/live.m3u8
+
+#EXTINF:0,Globo
+http://paraisotv.ddns.net:80/020/myStream/live.m3u8
+
+#EXTINF:0,RedeTV
+http://evpp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8
+
+#EXTINF:0,SBT
+http://paraisotv.ddns.net:80/084/myStream/live.m3u8
+
+#EXTINF:0,RecordTV
+http://177.12.99.108:8000/play/a003
